@@ -9,6 +9,7 @@ instructions can be read directly, and the tools can be run independently.
 | Skill | Purpose |
 | --- | --- |
 | [azure-github-oidc](skills/azure-github-oidc/SKILL.md) | Configure and troubleshoot exact GitHub Actions OIDC trust in Azure, including immutable subjects. |
+| [git-branching](skills/git-branching/SKILL.md) | Manage task branches, focused commits, pushes and pull requests with generic metadata and accurate contributor attribution. |
 
 ## Use
 
